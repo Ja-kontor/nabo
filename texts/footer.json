@@ -1,7 +1,7 @@
 [
   {
-    "title": "Om Kultur Kortet",
-    "text": "Kulturkortet er et samlingssted for ressourcer som kulturskabere i Århus kan trække på til at lave kulturprojekter.",
+    "title": "Om unge Kortet",
+    "text": "Unge kortet er et samlingssted for ressourcer for unge i Helsingør.",
     "addresses": [
       ["<a href='/om'>Læs mer her</a>"],
       ["", "Skabt of vedligeholdt af"]
@@ -12,32 +12,14 @@
     "title": "Contact",
     "addresses": [
       [
-        "<a href='https://www.frontloberne.dk' rel='noopener noreferrer'  target='_blank' >Frontløberne</a>",
-        "Jægegårdsgade 154c",
-        "Aarhus C",
-        "<a href='mailto:info@frontloberne.dk' rel='noopener noreferrer' target='_blank' >info@frontloberne.dk</a>"
+        "<a href='https://ungdomsskolen.com/?open=160&menu_id=18' rel='noopener noreferrer'  target='_blank' >JA-Kontoret</a>",
+        "Rasmus Knudsens Vej 52",
+        "Helsingør",
+        "<a href='mailto:stj08@helsingor.dk' rel='noopener noreferrer' target='_blank' >stj08@helsingor.dk</a>"
       ]
     ]
   },
 
-  {
-    "title": "Partnered Cities",
-    "bulletlinks": [
-      { "name": "Nabo Tromsø", "link": "www.google.com" },
-      { "name": "Nabo Skandeborg", "link": "www.google.com" }
-    ],
-    "addresses": [
-      [
-        "Skal dit projekt være med på kortet?",
-        "<a href='/indsend'>Indsend</a>"
-      ],
-      [
-        "Skal din by have et kultur-kort?",
-        "<a href='https://github.com/anetacamo/nabo' rel='noopener noreferrer'  target='_blank' >Fork this repo</a>",
-        "<a href='mailto:anetacamo@gmail.com' rel='noopener noreferrer' target='_blank'>Få hjælp til setup</a>"
-      ]
-    ]
-  },
 
   {
     "title": "Sidst opdateret",
@@ -49,7 +31,7 @@
     "title": "REQUEST TAKEDOWN / EDIT",
     "text": "Hvis kortet indeholder oplysninger om dit projekt, som du gerne vil have ændret eller fjernet, kontakte os.",
     "bulletlinks": [
-      { "name": "info@frontloberne.dk", "link": "mailto:info@frontloberne.dk" }
+      { "name": "stj08@helsingor.dk", "link": "stj08@helsingor.dk" }
     ]
   },
   {
